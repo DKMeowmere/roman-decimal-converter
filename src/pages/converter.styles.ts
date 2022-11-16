@@ -45,9 +45,7 @@ export const ConverterContainer = styled(Article)<ConverterProps>`
 			cursor: pointer;
 			font-size: 1.4rem;
 			opacity: 0.9;
-			&:hover {
-				opacity: 1;
-			}
+			box-shadow: none;
 		}
 	}
 	.converted-number {
